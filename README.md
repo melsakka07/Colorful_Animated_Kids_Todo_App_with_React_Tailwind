@@ -56,4 +56,4 @@ We welcome contributions that:
 MIT Licensed - free for educational and personal use
 
 ---
-*Made with ❤️ by [Your Name] - Because even chores should be fun!*
+*Made with ❤️ by M. ElSakka - Because even chores should be fun!*
